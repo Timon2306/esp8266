@@ -1,14 +1,14 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "channel_url": "https://t.me/boardyPy",
   "notes_ru": [
-    "Автоподключение к устройству",
-    "Проверка новой версии",
-    "Исправления и улучшения"
+    "Мне лень сюда что-то писать",
+    "Что-то добавил",
+    "Что-то исправил"
   ],
   "notes_en": [
-    "Automatic device connection",
-    "Update check",
-    "Fixes and improvements"
+    "hz",
+    "hz",
+    "hz"
   ]
 }
