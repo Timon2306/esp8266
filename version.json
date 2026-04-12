@@ -1,10 +1,10 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "channel_url": "https://t.me/boardyPy",
   "notes_ru": [
-    "Мне лень сюда что-то писать",
-    "Что-то добавил",
-    "Что-то исправил"
+    "Скачать и обновить можно через консоль",
+    "Скачать: pip pinstall boardypy",
+    "Обновить: pip install -U boardypy "
   ],
   "notes_en": [
     "hz",
