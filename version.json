@@ -3,7 +3,7 @@
   "channel_url": "https://t.me/boardyPy",
   "notes_ru": [
     "Скачать и обновить можно через консоль",
-    "Скачать: pip pinstall boardypy",
+    "Скачать: pip install boardypy",
     "Обновить: pip install -U boardypy "
   ],
   "notes_en": [
